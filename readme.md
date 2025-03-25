@@ -1,4 +1,4 @@
-# OOP Sesi 1 - Cakrawala
+# OOP Sesi 3 - Cakrawala
 
 This repository contains various implementations of basic Object-Oriented Programming (OOP) concepts as part of a college assignment. The project covers different programming paradigms such as OOP, functional, procedural, imperative, and declarative programming.
 
